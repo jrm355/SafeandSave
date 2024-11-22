@@ -22,7 +22,7 @@
 
 #### Please use best practice using this site. I cannot guarantee everything is a hundred percent correct but I did my best to get factual information. 
 
-## OTher notes. CSS stylization for the most part is linked to pages of the same name. Most fields are labeled for easy stylization changes. 
+## Other notes. CSS stylization for the most part is linked to pages of the same name. Most fields are labeled for easy stylization changes. 
 
 ## GETTING SITE TO WORK: my .env file has PORT, mongo URI, and REACT_APP_BACKEND_URL. These need to be replaced to make the backend functional. The Dog.mjs field has data that can be directly inserted into MongoDB. The schemas should be utilizable for inputting data into thundercloud (or whatever extension you choose to insert routes)
 
